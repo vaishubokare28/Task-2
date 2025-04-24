@@ -12,16 +12,7 @@ Create powerful visualizations in **Power BI** that communicate clear, actionabl
 
 ---
 
-## 📁 Deliverables  
-- 📌 Visual Power BI Dashboard  
-- 🖼️ Screenshot of the dashboard (see below)  
-- 📝 This README as documentation  
-
----
-
 ## 🖼️ Dashboard Preview  
-![Alt Text](![superstore dashboard](https://github.com/user-attachments/assets/c8a45e51-a523-43c2-8fcd-7ee4ad8c1fe6)
-)
 
 ![Superstore Power BI Dashboard](superstore%20dashboard.PNG)
 
