@@ -14,7 +14,9 @@ Create powerful visualizations in **Power BI** that communicate clear, actionabl
 
 ## 🖼️ Dashboard Preview  
 
-![Superstore Power BI Dashboard](superstore%20dashboard.PNG)
+(![superstore dashboard](https://github.com/user-attachments/assets/c8a45e51-a523-43c2-8fcd-7ee4ad8c1fe6)
+)
+
 
 ---
 
